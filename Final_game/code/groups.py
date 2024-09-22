@@ -1,6 +1,3 @@
-"""
-Those code organizes and draws sprites on the screen, separating ground and object sprites, and adjusts their positions based on a target position to create a camera offset effect.
-"""
 from settings import * 
 
 class AllSprites(pygame.sprite.Group):
